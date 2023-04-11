@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1546749642 source:d:\allimportant\w16shortestpath\main.cpp
+	<iostream>
+	"Graph.h"
+
+1546750855 d:\allimportant\w16shortestpath\include\graph.h
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+
+1546748683 source:d:\allimportant\w16shortestpath\src\graph.cpp
+	"Graph.h"
+

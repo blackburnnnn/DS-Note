@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1542867125 source:d:\allimportant\createbinarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1542867111 d:\allimportant\createbinarytree\include\binarytree.h
+	<string>
+	<iostream>
+	<queue>
+
+1542867111 source:d:\allimportant\createbinarytree\src\binarytree.cpp
+	"BinaryTree.h"
+
+1542867126 source:e:\w9Ê÷Óë¶Ñ\w9code-createbinarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1545030832 e:\w9Ê÷Óë¶Ñ\w9code-createbinarytree\include\binarytree.h
+	<string>
+	<iostream>
+	<queue>
+
+1545060130 source:h:\w8\w9code-createbinarytree\src\binarytree.cpp
+	"BinaryTree.h"
+
+1545058704 h:\w8\w9code-createbinarytree\include\binarytree.h
+	<iostream>
+	<stack>
+
+1545059806 source:h:\w8\w9code-createbinarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1545124850 source:c:\users\administrator\desktop\w9¶ş²æÊ÷\createbinarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1545124953 c:\users\administrator\desktop\w9¶ş²æÊ÷\createbinarytree\include\binarytree.h
+	<iostream>
+	<stack>
+
+1545124948 source:c:\users\administrator\desktop\w9¶ş²æÊ÷\createbinarytree\src\binarytree.cpp
+	"BinaryTree.h"
+

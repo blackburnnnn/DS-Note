@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545211620 source:c:\users\administrator\desktop\w10作业\heap\main.cpp
+	<iostream>
+	<Heap.h>
+
+1545208910 c:\users\administrator\desktop\w10作业\heap\include\heap.h
+	<iostream>
+
+1545211595 source:c:\users\administrator\desktop\w10作业\heap\src\heap.cpp
+	"Heap.h"
+

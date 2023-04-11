@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542867125 source:d:\allimportant\createbinarytree\main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1542867111 d:\allimportant\createbinarytree\include\binarytree.h
+	<string>
+	<iostream>
+	<queue>
+
+1542867111 source:d:\allimportant\createbinarytree\src\binarytree.cpp
+	"BinaryTree.h"
+
